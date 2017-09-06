@@ -1,0 +1,48 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Project Safiri.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Project Safiri.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\AppManifest.xaml
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\Project_Safiri_Release_AnyCPU.xap
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\RateMyApp.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\ar-SA\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\de-DE\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\en-GB\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\en-US\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\es-ES\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\fi-FI\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\fr-FR\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\he-IL\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\hr-HR\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\hu-HU\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\it-IT\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\lt-LT\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\nb-NO\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\nl-NL\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\pl-PL\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\pt-BR\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\pt-PT\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\ro-RO\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\ru-RU\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\sl-SI\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\sv-SE\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\uk-UA\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\vi-VN\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Release\zh-CN\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Project Safiri.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\App.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\MainPage.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Pages\about.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Pages\Help.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Pages\share.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Project Safiri.g.resources
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Project_Safiri.Resources.AppResources.resources
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Project Safiri.csproj.GenerateResource.Cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Project Safiri.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\Project Safiri.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Release\XapCacheFile.xml

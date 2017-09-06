@@ -1,0 +1,96 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Project Safiri.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Project Safiri.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\AppManifest.xaml
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\Project_Safiri_Debug_AnyCPU.xap
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\RateMyApp.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\ar-SA\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\de-DE\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\en-GB\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\en-US\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\es-ES\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\fi-FI\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\fr-FR\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\he-IL\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\hr-HR\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\hu-HU\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\it-IT\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\lt-LT\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\nb-NO\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\nl-NL\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\pl-PL\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\pt-BR\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\pt-PT\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\ro-RO\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\ru-RU\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\sl-SI\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\sv-SE\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\uk-UA\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\vi-VN\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\Bin\Debug\zh-CN\RateMyApp.resources.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\App.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\MainPage.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Pages\about.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Pages\Help.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Pages\share.g.cs
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Project Safiri.g.resources
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Project_Safiri.Resources.AppResources.resources
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Project Safiri.csproj.GenerateResource.Cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Project Safiri.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Project Safiri.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\XapCacheFile.xml
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Project Safiri\Project Safiri\obj\Debug\Project Safiri.csprojResolveAssemblyReference.cache
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Project Safiri.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Project Safiri.pdb
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\AppManifest.xaml
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\Project_Safiri_Debug_AnyCPU.xap
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\RateMyApp.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\ar-SA\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\de-DE\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\en-GB\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\en-US\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\es-ES\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\fi-FI\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\fr-FR\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\he-IL\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\hr-HR\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\hu-HU\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\it-IT\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\lt-LT\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\nb-NO\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\nl-NL\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\pl-PL\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\pt-BR\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\pt-PT\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\ro-RO\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\ru-RU\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\sl-SI\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\sv-SE\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\uk-UA\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\vi-VN\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\Bin\Debug\zh-CN\RateMyApp.resources.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Project Safiri.csprojResolveAssemblyReference.cache
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\App.g.cs
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\MainPage.g.cs
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Pages\about.g.cs
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Pages\Help.g.cs
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Pages\share.g.cs
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Project Safiri.g.resources
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Project_Safiri.Resources.AppResources.resources
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Project Safiri.csproj.GenerateResource.Cache
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Project Safiri.dll
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\Project Safiri.pdb
+C:\Users\peter\SkyDrive\Documents\Windows Phone Apps\Project Safiri\Project Safiri\obj\Debug\XapCacheFile.xml
